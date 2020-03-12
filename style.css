@@ -1,0 +1,22 @@
+p {
+  background-color: #707070;
+  border-style: solid;
+  border-color: #707070;
+  border-width: thin;
+}
+.p1{
+  background-color: #BE5504;
+}
+.p2{
+  background-color: #0000FF;
+  color: white;
+}
+.p3{
+  background-color: #ffffff;
+  font-family: Courier;
+  font-size: large;
+}
+.p4{
+  font-size: large;
+  font-weight: bold;
+}
